@@ -18,7 +18,7 @@
 	--alert-border: #d32f2f;
 	--field: #fffee0;
 	--mark: #FFFF99;
-	--post_preview_BG: #fffff7;
+	--post_preview_BG: #ffffff;
 
 	/* styling cards on link page */
 	--card_bg: #FFFFFF;
@@ -31,8 +31,7 @@
     --border_stroke: 2px solid;
 
 	/* other global styling variables */
-	/* OLD Rounded Corner Style: --rounded_corners: 0.666em;*/
-	--rounded_corners: 0;
+	--rounded_corners: 0.666em;
 }
 
 /* Dark mode */
@@ -69,7 +68,7 @@
 
 /* post preview on homepage */
 .post-preview {
-    border: 0px solid var(--link);
+    border: 1px solid var(--link);
     border-radius: var(--rounded_corners);
     padding: 1em 2em 0em;
     margin-bottom: 2em;
@@ -112,30 +111,15 @@ a.post-date {
 body {
 	max-width: 40em;
 	margin: 2em auto;
-	font-family: 'Baskervville', Georgia, Times, serif;
-	font-size: 16px;
+	font-family: compagnon, var(--font_monospace_slab_serif);
+	font-size: 18px;
 	padding: 0 1em;
 	line-height: 1.6;
 	background-color: var(--background);
 	color: var(--text);
 }
 
-h1, h2, h3, .link_title {
-	font-family: 'Reglo', Arial, Helvetica, sans-serif;
-	text-transform: uppercase;
-}
 
-h1 {
-	font-size: 2em;
-}
-
-h2 {
-	font-size: 3em;
-}
-
-h3 {
-	font-size: 1.5em;
-}
 
 /* changing profile photo border radius */
 img.profile_photo {

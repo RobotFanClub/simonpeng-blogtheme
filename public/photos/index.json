@@ -1,0 +1,139 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Simon Peng 🐒",
+	"icon": "https://avatars.micro.blog/avatars/2024/10/1583545.jpg",
+	"home_page_url": "https://simonpeng.net/",
+	"feed_url": "https://simonpeng.net/photos/index.json",
+	"items": [
+			{
+				"id": "https://simonpeng.net/2025/04/27/i-didnt-like-any-of.html",
+				"title": "",
+				"content_html": "<p>I didn’t like any of the off-the-shelf cable management boxes for standing desks because they usually are for when your desk is against a wall. So I made this box that presses into the desk with tension and hides the nasty cables! Fun hand tool project! Still needs finishing, but I like it so far!</p>\n<p><img src=\"uploads/2025/bb17f70751.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2025/273302eb67.jpg\" width=\"600\" height=\"423\" alt=\"\"><img src=\"uploads/2025/999f830c55.jpg\" width=\"590\" height=\"600\" alt=\"\"></p>\n",
+				"date_published": "2025-04-27T20:29:31-04:00",
+				"url": "https://simonpeng.net/2025/04/27/i-didnt-like-any-of.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2025/bb17f70751.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2025/bb17f70751.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/oh-yah-weve-got-cmyk.html",
+				"title": "",
+				"content_html": "<p>OH YAH WE’VE GOT CMYK RUNNING THROUGH 🎆🎇🎉🥳🎊👏👏👏</p>\n<p>This is my PSA for everyone to just attempt fixing your broken shit before you throw it out. If it’s already broken, what’s the worst that could happen?</p>\n<p>…I should probably test the scanner that I actually use way more before I celebrate… 🤔</p>\n<img src=\"uploads/2025/38b8ed7132.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-28T14:57:17-04:00",
+				"url": "https://simonpeng.net/2025/03/28/oh-yah-weve-got-cmyk.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2025/38b8ed7132.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2025/38b8ed7132.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/slowly-reviving-things-but-magenta.html",
+				"title": "",
+				"content_html": "<p>Slowly reviving things but Magenta has yet to reappear after I maybe destroyed something… pray for me. 🙏</p>\n<img src=\"uploads/2025/d4c863b5eb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-28T14:53:04-04:00",
+				"url": "https://simonpeng.net/2025/03/28/slowly-reviving-things-but-magenta.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2025/d4c863b5eb.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2025/d4c863b5eb.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/the-one-nice-thing-about.html",
+				"title": "",
+				"content_html": "<p>The one nice thing about having to completely disassemble your printer to try to unclog it is that you can remove the horrible little speaker that chimes every time you press any button on it and that has no mute function in the settings. 😇</p>\n<img src=\"uploads/2025/4323ba33d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-28T14:47:53-04:00",
+				"url": "https://simonpeng.net/2025/03/28/the-one-nice-thing-about.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2025/4323ba33d2.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2025/4323ba33d2.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/so-far-this-printer-repair.html",
+				"title": "",
+				"content_html": "<p>So far this printer repair has slightly increased the amount of black coming through and now completely ruined the colour 😂</p>\n<p>Side note… did you know the “cleaning” mode of your printer is just it blasting a bunch of ink into sponges inside the printer? I didn’t but it seems funny for some reason.</p>\n<img src=\"uploads/2025/d8c88dabea.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-28T14:43:01-04:00",
+				"url": "https://simonpeng.net/2025/03/28/so-far-this-printer-repair.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2025/d8c88dabea.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2025/d8c88dabea.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/spending-a-not-insignificant-amount.html",
+				"title": "",
+				"content_html": "<p>Spending a not insignificant amount of time trying to repair a long-neglected printer and thinking about how much work this is, how nobody who is sane would do this, and how many fucking printers must be in the landfills so we can all print… what? Movie tickets? Bills?</p>\n<p><img src=\"uploads/2025/04beab2eb6.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/1b2c79c85b.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"date_published": "2025-03-28T14:39:38-04:00",
+				"url": "https://simonpeng.net/2025/03/28/spending-a-not-insignificant-amount.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2025/04beab2eb6.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2025/04beab2eb6.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2024/10/09/making-wrist-rests.html",
+				"title": "Making Wrist Rests for My Ergonomic Keyboard",
+				"content_html": "<img src=\"uploads/2024/8fe7d4a95e.jpg\" alt=\"My split keyboard with two cute wrist pillows I made.\" width=\"500\" height=\"auto\">\n<p>About a year ago I started to notice some fatigue and pain in my hands from working at a desk all day. Eventually, I decided to splurge on a fancy split keyboard - the <a href=\"https://www.zsa.io/voyager\">ZSA Voyager.</a></p>\n<p>I’ve been using that in addition to switching to the <a href=\"https://colemak.com\">Colemak keyboard layout</a>, which have both really improved my comfort while typing. Maybe the biggest change is just engaging my <em>awareness</em> around how my hands and body feel when I’m working at a desk. The biggest help hasn’t been one single change, but instead forming a habit of <em>variety</em> around my working position. I sit, stand, type wide apart, closer together, and generally try to reposition and move things throughout the day.</p>\n<p>One new thing I added recently was some keyboard tenting, using <a href=\"https://www.amazon.ca/gp/aw/d/B0C22V8WSF?psc=1&amp;ref=ppx_pop_mob_b_asin_title\">these cheap magnetic phone stands</a> to add a steeper angle to each of the halves of the Voyager. It’s a very different experience and it really only works when I’m standing at my desk — sitting would require a desk so low that my legs wouldn’t fit under it. The result is undeniably <em>different</em> but it wasn’t immediately <em>comfortable</em> because you really do need to float your arms in front of the keyboard to maintain the right angle to type. This is doable for a while, but then fatigue would cause me to rest my arms down which introduced a whole new contortion and discomfort.</p>\n<p>I looked at some wrist rests online but was once again confronted by how expensive and ugly things marketed for health, ergonomics, tech  and, worst of all, the intersection of all three are. It’s just not something I was willing to invest in because… well, I want to like the things around me.</p>\n<p>So this leads me to a solution: I made some tiny pillows! My partner is super talented and practiced at sewing and I’ve been wanting to learn how to sew. This was actually just a practice project to lead into a bigger sewing project, but why not practice on something useful?</p>\n<img src=\"uploads/2024/666140a641.jpg\" alt=\"The two pillows I sewed.\" width=\"500\" height=\"auto\">\n<p>The result is two small, relatively firm pillows that are filled with scrap fabric. They’re dense but not heavy, and they’re a long rectangular shape, meaning you can play around with their orientation and get different kinds of support.</p>\n<img src=\"uploads/2024/6b3fbfbe92.jpg\" alt=\"Right hand resting on pillow and using keyboard.\" width=\"500\" height=\"auto\">\n<img src=\"uploads/2024/0f921f6f7c.jpg\" alt=\"Left hand resting on pillow and using keyboard.\" width=\"500\" height=\"auto\">\n<p>Like everything else in this ergonomic journey, they’re an <em>option.</em> I’ve found them to be super comfortable for some positions and a bit uncomfortable for others. I like to use them while typing, but for general computer use, moving back and forth from keyboard to mouse, it’s a bit cumbersome to add these into the mix.</p>\n<img src=\"uploads/2024/07ad594da5.jpg\" alt=\"Steeper tented keyboard with arm resting on pillow.\" width=\"500\" height=\"auto\">\n<img src=\"uploads/2024/d1008c0c91.jpg\" alt=\"Shallower tented keyboard with pillow supporting forearm instead of wrist.\" width=\"500\" height=\"auto\">\n<p>Overall, my favourite part of these was making them. Learning to sew feels like a long-neglected life skill I’m happy to start demystifying for myself. I’m told my hand-stitching on the one seam we left open for stuffing the pillows is quite neat! I really enjoyed every step of the process.</p>\n<img src=\"uploads/2024/d94db105b5.jpg\" alt=\"Hand-sewn ends of tiny pillows.\" width=\"500\" height=\"auto\">",
+				"date_published": "2024-10-09T17:15:00-04:00",
+				"url": "https://simonpeng.net/2024/10/09/making-wrist-rests.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2024/8fe7d4a95e.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2024/8fe7d4a95e.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2024/09/24/ive-been-liking.html",
+				"title": "",
+				"content_html": "<p>I’ve been liking Substack less and less since I first set up my newsletter there but I’ve been resisting moving more so because it feels like a distraction from actually writing. I’ll move eventually. And it’s shit like this that assures me I will.</p>\n<img src=\"uploads/2024/7a13def598.jpg\" width=\"554\" height=\"600\" alt=\"Screenshot of the Substack app, with two “featured” topics: “U.S. Election” and “Artificial Intelligence”\">\n",
+				"date_published": "2024-09-24T08:23:58-04:00",
+				"url": "https://simonpeng.net/2024/09/24/ive-been-liking.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2024/7a13def598.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2024/7a13def598.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/21/when-i-work.html",
+				"title": "",
+				"content_html": "<p>When I work with clients, I push them to stop looking for an objective reason to do something creative and instead lean into what they believe. The biggest surprise about this process, to me, is how almost <em>everyone</em> can step up and do that. <a href=\"https://www.everyonescreative.net/p/lets-normalize-creativity\">So I&rsquo;m trying to do that for myself, too.</a></p>\n<img src=\"uploads/2024/ec-manifestopart01-newsletterassets-working.jpg\" width=\"600\" height=\"277\" alt=\"Photo of earth with a box drawn around it. Next to it text reads: Manifesto Part I, Everyone is Creative. “Everyone” is in white, while “is creative” is in black. Caption reads “Photo: Earthrise, 1968. Taken aboard Apollo 8 by Bill Anders\">\n",
+				"date_published": "2024-07-21T14:36:16-04:00",
+				"url": "https://simonpeng.net/2024/07/21/when-i-work.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2024/ec-manifestopart01-newsletterassets-working.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2024/ec-manifestopart01-newsletterassets-working.jpg"
+					}
+				
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/18/ai-isnt-god.html",
+				"title": "AI isn’t God - A bit about absurdity and highlighting contrasts.",
+				"content_html": "<p>A few weeks ago I published a piece about how <a href=\"https://www.everyonescreative.net/p/ai-companies-think-youre-stupid\">AI is showing up in everything, even Adobe Acrobat.</a> It’s now well beyond ridiculous, and the one thing I didn’t articulate with words but explored a bit with visuals is the absolutely hilarious way that AI is elevated to this omnipotent, god-like status &ndash; it’s something so powerful and dangerous that we don’t understand how incredible it is &ndash; but then we use it to do some of the most mundane, trivial shit. It’s like asking Jesus to put together your IKEA for you.</p>\n<p><img src=\"https://simonpeng.net/uploads/2024/image.jpg\" alt=\"\"></p>\n<p><a href=\"https://emilygorcenski.com/post/making-god/\">People much smarter than me</a> have pointed out how AI evangelists speak about “AGI” (Artificial <em>General</em> Intelligence) and technology in general with a fully religious fervour. It’s part of what is so off-putting about AI tools to me. Like Web3, crypto, NFTs and basically any other cyber-cult there’s this uncritical dogma circling AI that forces you to accept certain things as fact before you can even join the conversation. And I just don’t. It doesn’t follow, to me, that a sufficiently complex auto-complete text generator will somehow ascend toward full god-level intelligence. I don’t believe it. And because I don’t believe <em>that</em> everything that follows is just impossible to believe.</p>\n<p>Conversely, the people that <em>do</em> accept the dogma now have a solid logical framework for everything else to build off of. It makes perfect sense that every business will want to integrate AI into their products and their workflows &ndash; who wouldn’t want a GOD on their side?</p>\n<p>This is where the absurdity of the comparison slots into place for me. I just don’t get how we can ask god to do our homework for us. I don’t understand how it seems like a good use of a cyber-deity to summarize an email for you. It reminds me of when I watch Survivor and people are <em>praying to god</em> to save them from being voted out. Is that a good use of your god’s infinite, transcendent power and influence? To keep you on a game show?</p>\n<p>Anyways, this whole rant was just meant to set up the rationale behind the images I made to go with that recent post. I discovered <a href=\"https://publicdomainreview.org/collection/passio-verbigenae/\">these amazing prints on The Public Domain Review</a> and when I thought of contrasting them with the meaningless word trash Adobe created to promote Acrobat AI, it felt too funny not to try it out.</p>\n<p><img src=\"https://simonpeng.net/uploads/2024/df0a9413a6.jpg\" alt=\"\"></p>\n<p><img src=\"https://simonpeng.net/uploads/2024/20f1a3b965.jpg\" alt=\"\"></p>\n<p><img src=\"https://simonpeng.net/uploads/2024/f5809fa12b.jpg\" alt=\"\"></p>\n<p><img src=\"https://simonpeng.net/uploads/2024/b6034a8575.jpg\" alt=\"\"></p>\n<p><img src=\"https://simonpeng.net/uploads/2024/c31d2d9d7c.jpg\" alt=\"\"></p>\n<p><img src=\"https://simonpeng.net/uploads/2024/7e7e5b2dc6.jpg\" alt=\"\"></p>\n<p><img src=\"https://simonpeng.net/uploads/2024/a06689ba5c.jpg\" alt=\"\"></p>\n<p>I really love how lame the marketing language looks when you pair it with literal biblical imagery.</p>\n<p>Working on <em>Everyone’s Creative</em> has been interesting in how it’s helped me widen what I let myself create for the newsletter. Before, when it was still <em>Robot Fan Club</em> it felt very closely tied to my identity as an illustrator. I felt a real pressure (from myself) to draw a lot of the imagery I used to support the writing. Sometimes it worked really well! Sometimes I was clearly less into it. With this new name and framing, though, I feel way more free to play with design, collage, typography and visual metaphor in a way that has been a lot of fun. The visual identity that is growing around <em>Everyone’s Creative</em> is really energizing me.</p>\n<p>I’m looking forward to experimenting more with the art I make for EC. It feels like a new “era” for my work and I feel so much more excited about making things recently than I have in a long time. Turns out I like novelty!</p>",
+				"date_published": "2024-07-18T12:29:28-04:00",
+				"url": "https://simonpeng.net/2024/07/18/ai-isnt-god.html",
+				
+					"image": "https://cdn.uploads.micro.blog/153694/2024/image.jpg",
+					"_microblog": {
+						"thumbnail_url": "https://micro.blog/photos/400/https://cdn.uploads.micro.blog/153694/2024/image.jpg"
+					}
+				
+			}
+	]
+}

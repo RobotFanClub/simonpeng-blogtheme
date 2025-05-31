@@ -1,0 +1,324 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Simon Peng 🐒",
+	"icon": "https://avatars.micro.blog/avatars/2024/10/1583545.jpg",
+	"home_page_url": "https://simonpeng.net/",
+	"feed_url": "https://simonpeng.net/photos/index.json",
+	"items": [
+			{
+				"id": "https://simonpeng.net/2025/05/29/the-cbc-logo-is-so.html",
+				"title": "",
+				"content_text": "\u003cp\u003eThe CBC logo is so crazy iconic. It’s odd to feel patriotic about branding but Canadians have it …\u003c/p\u003e",
+				"date_published": "2025-05-29T10:58:23-04:00",
+				"url": "https://simonpeng.net/2025/05/29/the-cbc-logo-is-so.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/28/i-have-had-to-dip.html",
+				"title": "",
+				"content_text": "I have had to dip back into working with Adobe applications a bit, and am having the …",
+				"date_published": "2025-05-28T14:51:38-04:00",
+				"url": "https://simonpeng.net/2025/05/28/i-have-had-to-dip.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/26/with-so-many-big-existential.html",
+				"title": "",
+				"content_text": "With so many big, existential issues going on all the time it feels like there’s no space to enjoy …",
+				"date_published": "2025-05-26T09:42:04-04:00",
+				"url": "https://simonpeng.net/2025/05/26/with-so-many-big-existential.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/23/today-in-being-an-overenthusiastic.html",
+				"title": "",
+				"content_text": "Today in being an over-enthusiastic Linux beginner: made a typo in the terminal and accidentally …",
+				"date_published": "2025-05-23T09:56:26-04:00",
+				"url": "https://simonpeng.net/2025/05/23/today-in-being-an-overenthusiastic.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/21/as-more-and-more-people.html",
+				"title": "",
+				"content_text": "As more and more people seem to be blindly accepting that AI belongs everywhere, whether it makes …",
+				"date_published": "2025-05-21T12:31:52-04:00",
+				"url": "https://simonpeng.net/2025/05/21/as-more-and-more-people.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/21/did-you-know-ireland-launched.html",
+				"title": "",
+				"content_text": "Did you know Ireland launched a basic income pilot just for artists? €325/week for 3 years. Not …",
+				"date_published": "2025-05-21T12:29:47-04:00",
+				"url": "https://simonpeng.net/2025/05/21/did-you-know-ireland-launched.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/19/recognize-that-creativity-is-neither.html",
+				"title": "",
+				"content_text": "\u0026ldquo;Recognize that creativity is neither good nor evil - but that it is powerful. You are …",
+				"date_published": "2025-05-19T11:03:49-04:00",
+				"url": "https://simonpeng.net/2025/05/19/recognize-that-creativity-is-neither.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/18/i-didnt-feel-much-when.html",
+				"title": "",
+				"content_text": "I didn’t feel much when I deleted my Facebook account. I mostly felt fatigue when I deleted my …",
+				"date_published": "2025-05-18T09:07:27-04:00",
+				"url": "https://simonpeng.net/2025/05/18/i-didnt-feel-much-when.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/16/ive-been-pushing-myself-to.html",
+				"title": "",
+				"content_text": "I\u0026rsquo;ve been pushing myself to use more open source software, but for graphic design work I still …",
+				"date_published": "2025-05-16T16:27:18-04:00",
+				"url": "https://simonpeng.net/2025/05/16/ive-been-pushing-myself-to.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/05/16/today-is-a-nice-day.html",
+				"title": "",
+				"content_text": "Today is a nice day to learn that old workplace safety manuals have some pretty hilarious images …",
+				"date_published": "2025-05-16T14:02:59-04:00",
+				"url": "https://simonpeng.net/2025/05/16/today-is-a-nice-day.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/04/30/is-ai-a-threat-or.html",
+				"title": "Is AI a threat? Or does it just expose the existing threats?",
+				"content_text": "AI will outpace humans in all structured tasks. If you’re producing repeatable deliverables, you …",
+				"date_published": "2025-04-30T14:04:49-04:00",
+				"url": "https://simonpeng.net/2025/04/30/is-ai-a-threat-or.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/04/29/looking-at-the-results-of.html",
+				"title": "",
+				"content_text": "Looking at the results of our Canadian election is such a mixed bag of emotions. I’m glad to see we …",
+				"date_published": "2025-04-29T08:41:20-04:00",
+				"url": "https://simonpeng.net/2025/04/29/looking-at-the-results-of.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/04/28/i-looked-at-the-design.html",
+				"title": "",
+				"content_text": "I looked at the design of the Canadian political party platforms and what I found wasn’t pretty… …",
+				"date_published": "2025-04-28T09:53:50-04:00",
+				"url": "https://simonpeng.net/2025/04/28/i-looked-at-the-design.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/04/27/i-didnt-like-any-of.html",
+				"title": "",
+				"content_text": "I didn’t like any of the off-the-shelf cable management boxes for standing desks because they …",
+				"date_published": "2025-04-27T20:29:31-04:00",
+				"url": "https://simonpeng.net/2025/04/27/i-didnt-like-any-of.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/04/02/i-love-working-alone-i.html",
+				"title": "",
+				"content_text": "I love working alone. I think our digital privacy is more important than ever. I have also come to …",
+				"date_published": "2025-04-02T09:07:10-04:00",
+				"url": "https://simonpeng.net/2025/04/02/i-love-working-alone-i.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/oh-yah-weve-got-cmyk.html",
+				"title": "",
+				"content_text": "OH YAH WE’VE GOT CMYK RUNNING THROUGH 🎆🎇🎉🥳🎊👏👏👏\nThis is my PSA for everyone to just attempt fixing …",
+				"date_published": "2025-03-28T14:57:17-04:00",
+				"url": "https://simonpeng.net/2025/03/28/oh-yah-weve-got-cmyk.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/slowly-reviving-things-but-magenta.html",
+				"title": "",
+				"content_text": "Slowly reviving things but Magenta has yet to reappear after I maybe destroyed something… pray for …",
+				"date_published": "2025-03-28T14:53:04-04:00",
+				"url": "https://simonpeng.net/2025/03/28/slowly-reviving-things-but-magenta.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/the-one-nice-thing-about.html",
+				"title": "",
+				"content_text": "The one nice thing about having to completely disassemble your printer to try to unclog it is that …",
+				"date_published": "2025-03-28T14:47:53-04:00",
+				"url": "https://simonpeng.net/2025/03/28/the-one-nice-thing-about.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/so-far-this-printer-repair.html",
+				"title": "",
+				"content_text": "So far this printer repair has slightly increased the amount of black coming through and now …",
+				"date_published": "2025-03-28T14:43:01-04:00",
+				"url": "https://simonpeng.net/2025/03/28/so-far-this-printer-repair.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/28/spending-a-not-insignificant-amount.html",
+				"title": "",
+				"content_text": "Spending a not insignificant amount of time trying to repair a long-neglected printer and thinking …",
+				"date_published": "2025-03-28T14:39:38-04:00",
+				"url": "https://simonpeng.net/2025/03/28/spending-a-not-insignificant-amount.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/03/18/ive-been-trying-to-think.html",
+				"title": "",
+				"content_text": "I’ve been trying to think about how being an artist can help during these wild times in the world. I …",
+				"date_published": "2025-03-18T10:12:44-04:00",
+				"url": "https://simonpeng.net/2025/03/18/ive-been-trying-to-think.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/02/21/theres-so-much-negativity-flying.html",
+				"title": "",
+				"content_text": "There\u0026rsquo;s so much negativity flying around right now and it\u0026rsquo;s starting to really get to …",
+				"date_published": "2025-02-21T17:40:23-04:00",
+				"url": "https://simonpeng.net/2025/02/21/theres-so-much-negativity-flying.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/01/27/we-have-to-stop-pretending.html",
+				"title": "",
+				"content_text": "We have to stop pretending creativity is \u0026ldquo;magic.\u0026quot; I feel like the only way to build …",
+				"date_published": "2025-01-27T11:07:51-04:00",
+				"url": "https://simonpeng.net/2025/01/27/we-have-to-stop-pretending.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/01/21/you-can-never-separate-the.html",
+				"title": "",
+				"content_text": "🎨 You Can Never Separate the Art from the Artist\n#art #creativity",
+				"date_published": "2025-01-21T09:45:04-04:00",
+				"url": "https://simonpeng.net/2025/01/21/you-can-never-separate-the.html"
+			},
+			{
+				"id": "https://simonpeng.net/2025/01/04/ive-been-thinking-a-lot.html",
+				"title": "",
+				"content_text": "I’ve been thinking a lot about the fear people have of AI and the threats it poses to artists. But I …",
+				"date_published": "2025-01-04T12:10:44-04:00",
+				"url": "https://simonpeng.net/2025/01/04/ive-been-thinking-a-lot.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/12/31/new-post-on-everyones-creative.html",
+				"title": "",
+				"content_text": "New post on Everyone\u0026rsquo;s Creative: 2024 Review",
+				"date_published": "2024-12-31T20:22:45-04:00",
+				"url": "https://simonpeng.net/2024/12/31/new-post-on-everyones-creative.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/12/31/books-i-read-in.html",
+				"title": "Books I Read in 2024",
+				"content_text": "\u003cp\u003eI\u0026rsquo;m a slow reader and I often lose interest in reading \u003cem\u003ein general\u003c/em\u003e for months at a time. I also …\u003c/p\u003e",
+				"date_published": "2024-12-31T14:49:15-04:00",
+				"url": "https://simonpeng.net/2024/12/31/books-i-read-in.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/11/15/the-more-i.html",
+				"title": "",
+				"content_text": "The more I think about how creativity really is the root to solving all our problems, the more I …",
+				"date_published": "2024-11-15T16:13:12-04:00",
+				"url": "https://simonpeng.net/2024/11/15/the-more-i.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/11/15/new-post-on.html",
+				"title": "",
+				"content_text": "New post on Everyone\u0026rsquo;s Creative: The world is ending and there\u0026rsquo;s nothing you can do …",
+				"date_published": "2024-11-15T16:07:25-04:00",
+				"url": "https://simonpeng.net/2024/11/15/new-post-on.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/10/12/digital-systems-and.html",
+				"title": "",
+				"content_text": "\u0026hellip;digital systems and tools should not be ceded to the market—we should not accept the …",
+				"date_published": "2024-10-12T13:14:23-04:00",
+				"url": "https://simonpeng.net/2024/10/12/digital-systems-and.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/10/09/making-wrist-rests.html",
+				"title": "Making Wrist Rests for My Ergonomic Keyboard",
+				"content_text": "\u003cimg src=\"uploads/2024/8fe7d4a95e.jpg\" alt=\"My split keyboard with two cute wrist pillows I made.\" width=\"500\" height=\"auto\"\u003e\n\u003cp\u003eAbout a year ago I started to notice some fatigue and pain in my hands from working at a desk all …\u003c/p\u003e",
+				"date_published": "2024-10-09T17:15:00-04:00",
+				"url": "https://simonpeng.net/2024/10/09/making-wrist-rests.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/09/24/ive-been-liking.html",
+				"title": "",
+				"content_text": "I’ve been liking Substack less and less since I first set up my newsletter there but I’ve been …",
+				"date_published": "2024-09-24T08:23:58-04:00",
+				"url": "https://simonpeng.net/2024/09/24/ive-been-liking.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/09/24/after-taking-some.html",
+				"title": "",
+				"content_text": "After taking some time away from writing and making things, I\u0026rsquo;m thinking a lot about how much …",
+				"date_published": "2024-09-24T08:02:40-04:00",
+				"url": "https://simonpeng.net/2024/09/24/after-taking-some.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/30/gatekeeping-in-art.html",
+				"title": "",
+				"content_text": "Gatekeeping in art spaces is one of the most toxic things artists do. Creativity is fundamental to …",
+				"date_published": "2024-07-30T09:11:57-04:00",
+				"url": "https://simonpeng.net/2024/07/30/gatekeeping-in-art.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/23/every-time-a.html",
+				"title": "",
+				"content_text": "Every time a company like Adobe introduces new “features,” it’s an attempt to make leaving them …",
+				"date_published": "2024-07-23T13:12:59-04:00",
+				"url": "https://simonpeng.net/2024/07/23/every-time-a.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/23/when-we-invest.html",
+				"title": "",
+				"content_text": "When we invest in learning tools, we’re making a commitment to the tool.\nWhen Adobe push AI, they’re …",
+				"date_published": "2024-07-23T12:07:26-04:00",
+				"url": "https://simonpeng.net/2024/07/23/when-we-invest.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/21/when-i-work.html",
+				"title": "",
+				"content_text": "When I work with clients, I push them to stop looking for an objective reason to do something …",
+				"date_published": "2024-07-21T14:36:16-04:00",
+				"url": "https://simonpeng.net/2024/07/21/when-i-work.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/18/ai-isnt-god.html",
+				"title": "AI isn’t God - A bit about absurdity and highlighting contrasts.",
+				"content_text": "\u003cp\u003eA few weeks ago I published a piece about how \u003ca href=\"https://www.everyonescreative.net/p/ai-companies-think-youre-stupid\"\u003eAI is showing up in everything, even Adobe Acrobat. …\u003c/a\u003e\u003c/p\u003e",
+				"date_published": "2024-07-18T12:29:28-04:00",
+				"url": "https://simonpeng.net/2024/07/18/ai-isnt-god.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/09/new-post-on.html",
+				"title": "",
+				"content_text": "New post on Everyone’s Creative exploring the unnecessary “AI” features being crammed into …",
+				"date_published": "2024-07-09T08:20:27-04:00",
+				"url": "https://simonpeng.net/2024/07/09/new-post-on.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/04/some-thoughts-on.html",
+				"title": "Some thoughts on Adobe (with many more to come)",
+				"content_text": "I already wrote about why I left the company, but to sum up: the business changed and I didn’t …",
+				"date_published": "2024-07-04T15:17:33-04:00",
+				"url": "https://simonpeng.net/2024/07/04/some-thoughts-on.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/07/02/along-with-working.html",
+				"title": "",
+				"content_text": "Along with working on my little blog here, I’ve relaunched my newsletter! Check out Everyone’s …",
+				"date_published": "2024-07-02T11:21:22-04:00",
+				"url": "https://simonpeng.net/2024/07/02/along-with-working.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/06/30/spent-the-day.html",
+				"title": "",
+				"content_text": "Spent the day working on setting up the theme for this site. It feels very rewarding to dig into how …",
+				"date_published": "2024-06-30T22:52:17-04:00",
+				"url": "https://simonpeng.net/2024/06/30/spent-the-day.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/05/20/im-not-sure.html",
+				"title": "",
+				"content_text": "I’m not sure why but I find I’m really avoiding posting here — I was never a tweeter and unless I’m …",
+				"date_published": "2024-05-20T15:05:39-04:00",
+				"url": "https://simonpeng.net/2024/05/20/im-not-sure.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/04/02/new-post-on.html",
+				"title": "",
+				"content_text": "New post on Robot Fan Club Recently, my art has been up in some public settings. It\u0026rsquo;s a novel …",
+				"date_published": "2024-04-02T08:35:06-04:00",
+				"url": "https://simonpeng.net/2024/04/02/new-post-on.html"
+			},
+			{
+				"id": "https://simonpeng.net/2024/03/19/im-really-enjoying.html",
+				"title": "",
+				"content_text": "I\u0026rsquo;m really enjoying playing around with Micro.blog to set up a new simple site for myself. …",
+				"date_published": "2024-03-19T08:58:51-04:00",
+				"url": "https://simonpeng.net/2024/03/19/im-really-enjoying.html"
+			}
+	]
+}

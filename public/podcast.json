@@ -1,0 +1,20 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Simon Peng 🐒",
+	"icon": "https://avatars.micro.blog/avatars/2024/10/1583545.jpg",
+	"home_page_url": "https://simonpeng.net/",
+	"feed_url": "https://simonpeng.net/podcast.json",
+	"_podcast": {
+		"about": "https://jsonfeed.org/podcasting",
+		"image": "https://micro.blog/SimonPeng/podcast.png",
+		"explicit": false,
+		"categories": [
+			{
+				"category": "Society \u0026 Culture",
+				"subcategory": "Personal Journals"
+			}
+		]
+	},
+	"items": [
+	]
+}

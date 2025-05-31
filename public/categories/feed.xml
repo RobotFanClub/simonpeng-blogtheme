@@ -1,0 +1,44 @@
+<rss version="2.0">
+  <channel>
+    <title>Categories on Simon Peng 🐒</title>
+    <link>https://simonpeng.net/categories/</link>
+    <description></description>
+    
+    <language>en</language>
+    
+    <lastBuildDate>Mon, 27 Jan 2025 11:07:51 -0400</lastBuildDate>
+    
+    <item>
+      <title>Artwork &amp; Process</title>
+      <link>https://simonpeng.net/categories/artwork-process/</link>
+      <pubDate>Mon, 27 Jan 2025 11:07:51 -0400</pubDate>
+      <guid>https://simonpeng.net/categories/artwork-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative Industry</title>
+      <link>https://simonpeng.net/categories/creative-industry/</link>
+      <pubDate>Mon, 27 Jan 2025 11:07:51 -0400</pubDate>
+      <guid>https://simonpeng.net/categories/creative-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>https://simonpeng.net/categories/update/</link>
+      <pubDate>Tue, 21 Jan 2025 09:45:04 -0400</pubDate>
+      <guid>https://simonpeng.net/categories/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://simonpeng.net/categories/books/</link>
+      <pubDate>Tue, 31 Dec 2024 14:49:15 -0400</pubDate>
+      <guid>https://simonpeng.net/categories/books/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

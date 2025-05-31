@@ -17,7 +17,7 @@ url: /links/
         " 
         alt="Everyone's Creative Icon">
         <p>
-        <a href="https://www.everyonescreative.net/" target="_blank"><strong>EVERYONE'S CREATIVE</strong></a>
+        <a class="link_title" href="https://www.everyonescreative.net/" target="_blank"><strong>EVERYONE'S CREATIVE</strong></a>
         </p>
         <p class="link_description">
         Newsletter exploring what it means to make things, challenge conventional wisdom about art, and invite everyone into the "creative" club.
@@ -27,7 +27,7 @@ url: /links/
         <div class="card_avatar">
             <i class="fa-solid fa-heart fa-2x" style="color: var(--link);"></i>
         </div>
-        <p>
+        <p class="link_title">
         <strong>Socials</strong>
         </p>
         <p>
