@@ -1,0 +1,258 @@
+/* Light mode */
+:root {
+	--text: #000000;
+	--link: #470d6e;
+	--link_visited: #470d6e;
+	--accent1: #333333;
+	--accent2: #666666;
+	--background: #fffff7;
+	--code: #ffcd42;
+	--button-text: #ffffff;
+	--blockquote: #fffee0;
+	--blockquote-border: #e5d600;
+	--aside: #e0f7fa;
+	--aside-border: #0097a7;
+	--note: #e8f5e9;
+	--note-border: #d5e1d6;
+	--alert: #ffebee;
+	--alert-border: #d32f2f;
+	--field: #fffee0;
+	--mark: #FFFF99;
+	--post_preview_BG: #ffffff;
+
+	/* styling cards on link page */
+	--card_bg: #FFFFFF;
+	--card_text: #000000;
+	--card_outline: #1d1d1d;
+	--card_stroke: 1px solid;
+	--cardbg_hover: #fff3d2;
+
+    /* table styling */
+    --border_stroke: 2px solid;
+
+	/* other global styling variables */
+	--rounded_corners: 0.666em;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+	:root {
+		--text: #f8f8f2;
+		--link: #ffcd42;
+		--link_visited: #ffcd42;
+		--accent1: #f8f8f2;
+		--accent2: #f8f8f2;
+		--background: #211625;
+		--code: #ffcd42;	
+		--button-text: #282a36;
+		--blockquote: #44475a;
+		--blockquote-border: #6272a4;
+		--aside: #6272a4;
+		--aside-border: #7797b7	;
+		--note: #3f444a;
+		--note-border: #4f545a;
+		--alert: #ff5555;
+		--alert-border: #ff6e6e;
+		--field: #44475a;
+		--mark: #FFFF99;
+		--post_preview_BG: #362a3b;
+
+			/* styling cards on link page */
+		--card_bg: #362a3b;
+		--card_text: #ffffff;
+		--card_outline: #ffcd42;
+		--card_stroke: 1px solid;
+		--cardbg_hover: #341043;
+	}
+}
+
+/* post preview on homepage */
+.post-preview {
+    border: 1px solid var(--link);
+    border-radius: var(--rounded_corners);
+    padding: 1em 2em 0em;
+    margin-bottom: 2em;
+	background-color: var(--post_preview_BG);
+    }
+
+/* styling the date label on homepage posts */
+a.post-date {
+
+	/*font styling for the date*/
+	font-size: 0.8em;
+	text-transform: uppercase;
+
+}
+
+/* trying to use a custom font uploaded to micro.blog through the upload tab */
+@font-face{
+	font-family: compagnon;
+	src: url('https://www.simonpeng.net/uploads/2024/compagnon-roman.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	}
+@font-face {
+	font-family: compagnon;
+	src: url('https://simonpeng.net/uploads/2024/compagnon-italic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+}
+@font-face {
+	font-family: compagnon;
+	src: url('https://simonpeng.net/uploads/2024/compagnon-medium.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+
+/* pulling the body styling from main.css to customize */
+
+body {
+	max-width: 40em;
+	margin: 2em auto;
+	font-family: compagnon, var(--font_monospace_slab_serif);
+	font-size: 18px;
+	padding: 0 1em;
+	line-height: 1.6;
+	background-color: var(--background);
+	color: var(--text);
+}
+
+
+
+/* changing profile photo border radius */
+img.profile_photo {
+	border-radius: var(--rounded_corners);
+}
+
+/* trying to set up table styling for the resources page */
+table {
+    max-width: 80em;
+    margin-right: auto;
+    margin-left: auto;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 20px;
+    
+}
+
+thead th:nth-child(1) {
+    width: 30%;
+    border-right: var(--border_stroke);
+    border-right-color: var(--code);
+}
+
+thead
+{
+    padding: 20px;
+    text-align: center;
+    border: var(--border_stroke);
+    border-color: var(--code);
+    font-size: 16px;
+    text-transform: uppercase;
+    background-color: var(--code);
+	color: #000000;
+}
+
+td
+ {
+    padding: 20px;
+    border: var(--border_stroke);
+    border-color: var(--code);
+}
+
+td:nth-child(1)::first-line
+{
+    font-weight: bold;
+}
+
+/* setting up cards for link page */
+.container {
+	column-width: 250px;
+	column-gap: 20px;
+}
+
+.card {
+	break-inside: avoid;
+	border: var(--card_stroke);
+	border-radius: var(--rounded_corners);
+	padding: 2em 2em 1em;
+	margin: 0 0 1em 0;
+	text-align: left;
+	font-size: 18px;
+	background-color: var(--card_bg);
+	border-color: var(--card_outline);
+	color: var(--card_text);
+
+	/* drop-shadow( <length> <length> <blur> <color> ) */
+	filter: drop-shadow(0px 4px 2px #00000020);
+
+	/*applying easing when returning from hover state*/
+	transition-timing-function: ease-in;
+	transition: 0.2s;
+
+}
+.card:hover {
+	transition-timing-function: ease-out;
+	transition: 0.2s;
+	transform: translateY(-5px);
+	/* transform: rotate(0.5deg); */
+	filter: drop-shadow(0px 8px 6px #00000020);
+}
+.link_description {
+	font-size: 14px;
+}
+
+.card_avatar {
+	width: 50px;
+	height: 50px;
+	border-radius: var(--rounded_corners);
+	margin-bottom: 5px;
+}
+
+/* Smaller cards for temporary or less important links */
+.link_card {
+	display: grid;
+	grid-template-columns: 10% auto;
+	break-inside: avoid;
+	border: var(--card_stroke);
+	border-radius: var(--rounded_corners);
+	padding: 1em 1em 0em;
+	text-align: left;
+	font-size: 1rem;
+	font-weight: bold;
+	background-color: var(--card_bg);
+	border-color: var(--card_outline);
+	color: var(--card_text);
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
+	
+	/* drop-shadow( <length> <length> <blur> <color> ) */
+	filter: drop-shadow(0px 4px 2px #00000020);
+
+	/*applying easing when returning from hover state*/
+	transition-timing-function: ease-in;
+	transition: 0.2s;
+}
+
+.link_card:hover {
+	transition-timing-function: ease-out;
+	transition: 0.2s;
+	transform: translateY(-5px);
+	transform: rotate(0.5deg);
+	filter: drop-shadow(0px 8px 6px #00000020);
+	background-color: var(--cardbg_hover);
+}
+/*trying to set up something for the portfolio page, but I think I need a design idea*/
+.portfolio-item {
+	display: inline;
+	border-top: 1px dotted;
+	border-color: var(--card_outline);
+}
+
